@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92341072859",
+    "project_id": "shoppingfirebase-19096",
+    "storage_bucket": "shoppingfirebase-19096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92341072859:android:b8fd8ff5b0110f5cc0edfe",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapplicatonecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjEIGGf0nBrBiNwpwC-ttrYM8uUJU8eaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
