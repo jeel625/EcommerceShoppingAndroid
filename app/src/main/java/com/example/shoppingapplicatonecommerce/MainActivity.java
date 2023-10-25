@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view)
             {
-                Intent intent = new Intent(MainActivity.this, AdminCategoryActivity.class);
+                Intent intent = new Intent(MainActivity.this, RegisterActivity.class);
                 startActivity(intent);
             }
         });
